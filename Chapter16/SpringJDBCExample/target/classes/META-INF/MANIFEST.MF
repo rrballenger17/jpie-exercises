@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ryan
+Build-Jdk: 11.0.1
+Implementation-Title: gs-relational-data-access
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: org.springframework
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/gs-relational-data-access
+Created-By: Maven Integration for Eclipse
+
